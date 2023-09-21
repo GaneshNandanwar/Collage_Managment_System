@@ -1,1 +1,1 @@
-# GaneshNandanwar.Collage_Managment_System
+# Collage_Managment_System
